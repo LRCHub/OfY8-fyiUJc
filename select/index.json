@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Luxury",
+  "base_artist": "KVGGLV",
+  "createdAt": "2026-02-19T14:49:19.387081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Luxury Liner - Remastered Version",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/01_Luxury_Liner_-_Remastered_Version_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luxury Liner (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/02_Luxury_Liner_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ashes of Luxury",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/03_Ashes_of_Luxury_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luxury",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/04_Luxury_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Luxury of Tears",
+      "artist": "Christian Death",
+      "has_synced": false,
+      "path": "select/05_The_Luxury_of_Tears_Christian_Death.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luxury Cage",
+      "artist": "Republica",
+      "has_synced": true,
+      "path": "select/06_Luxury_Cage_Republica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Luxury",
+      "artist": "Jon Bellion feat. Audra Mae",
+      "has_synced": true,
+      "path": "select/07_Luxury_Jon_Bellion_feat._Audra_Mae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Luxury Ft. Audra Mae",
+      "artist": "Jon Bellion",
+      "has_synced": true,
+      "path": "select/08_Luxury_Ft._Audra_Mae_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Punishment of Luxury",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/09_The_Punishment_of_Luxury_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Punishment of Luxury",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/10_The_Punishment_of_Luxury_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Luxury of Loneliness",
+      "artist": "Her Space Holiday",
+      "has_synced": true,
+      "path": "select/11_The_Luxury_of_Loneliness_Her_Space_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scared to Be Lonely (Loud Luxury Remix)",
+      "artist": "Martin Garrix & Dua Lipa",
+      "has_synced": false,
+      "path": "select/12_Scared_to_Be_Lonely_(Loud_Luxury_Remix)_Martin_Garrix_&_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bleeding Is A Luxury",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/13_Bleeding_Is_A_Luxury_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Luxury Tax",
+      "artist": "Rick Ross feat. Lil Wayne, Jeezy & Trick Daddy",
+      "has_synced": true,
+      "path": "select/14_Luxury_Tax_Rick_Ross_feat._Lil_Wayne,_Jeezy_&_Trick_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Luxury Tax (featuring Lil' Wayne, Young Jeezy & Trick Daddy)",
+      "artist": "Rick Ross",
+      "has_synced": true,
+      "path": "select/15_Luxury_Tax_(featuring_Lil'_Wayne,_Young_Jeezy_&_Trick_Daddy)_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alone Again in the Lap of Luxury / Now Wash Your Hands - Dave Meegan Mix",
+      "artist": "Marillion",
+      "has_synced": false,
+      "path": "select/16_Alone_Again_in_the_Lap_of_Luxury___Now_Wash_Your_Hands_-_Dave_Meegan_Mix_Marillion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luxury (feat. ROTZZZ)",
+      "artist": "KVGGLV",
+      "has_synced": false,
+      "path": "select/pl_01_Luxury_(feat._ROTZZZ)_KVGGLV.txt"
+    }
+  ]
+}
